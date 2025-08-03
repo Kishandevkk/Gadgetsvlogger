@@ -1,0 +1,52 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Latest tech reviews, gadget unboxings, and tech news - GadgetVlogger" />
+  <title>GadgetVlogger - Your Daily Dose of Tech</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>GadgetVlogger</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="privacy.html">Privacy Policy</a>
+    </nav>
+  </header>  <main>
+    <section class="intro">
+      <h2>Welcome to GadgetVlogger</h2>
+      <p>Tech reviews, unboxings, comparisons, and tutorials — sab kuch ek hi jagah par. Stay updated with the latest in tech!</p>
+    </section><section class="posts">
+  <article>
+    <h3>🔋 Realme 13 Pro+ First Look!</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/VIDEO_ID_1" frameborder="0" allowfullscreen></iframe>
+    <p>Realme 13 Pro+ ka first look out ho chuka hai! Know about its camera, battery, and performance in this in-depth preview.</p>
+  </article>
+
+  <article>
+    <h3>📱 iPhone 16 Leak – Kya Naya Hai?</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/VIDEO_ID_2" frameborder="0" allowfullscreen></iframe>
+    <p>iPhone 16 ke leaks ne tech duniya me halchal macha di hai. Check out the rumored specs and features in Hinglish!</p>
+  </article>
+
+  <article>
+    <h3>🖥️ Top 5 Budget Laptops 2025</h3>
+    <img src="images/laptops.jpg" alt="Top Budget Laptops" width="100%">
+    <p>Agar aap ₹40,000 ke under laptop dhoond rahe ho to yeh 5 options zarur check karo. Best performance for your money.</p>
+  </article>
+
+  <article>
+    <h3>🎧 Best TWS Earbuds under ₹2,000</h3>
+    <img src="images/earbuds.jpg" alt="Earbuds" width="100%">
+    <p>2025 me sabse ache aur budget-friendly TWS earbuds kaun se hain? Yeh comparison blog padhiye aur khud decide kijiye.</p>
+  </article>
+</section>
+
+  </main>  <footer>
+    <p>&copy; 2025 GadgetVlogger. All rights reserved.</p>
+  </footer>
+</body>
+</html>
